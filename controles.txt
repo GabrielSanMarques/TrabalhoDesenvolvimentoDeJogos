@@ -1,0 +1,2 @@
+Setas direcionais: controle da nave
+Espaço: atirar
